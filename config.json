@@ -1,0 +1,10 @@
+{
+  "url": "https://marketing-prod.i17game.com/i17GameMarketing_Backend/Home/WelcomePage",
+  "filters": {
+    "project": "明星三缺一",
+    "region": "",
+    "date": "2026/02/01 - 2026/02/28",
+    "columns": []
+  },
+  "output_dir": "./output"
+}
